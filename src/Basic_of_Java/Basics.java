@@ -5,6 +5,7 @@ public class Basics {
         System.out.println("College Wallah");
         System.out.println("UPSC Wallah");
         System.out.println("SSC Wallah");
+
         System.out.println("Banking Wallah");
     }
 }
